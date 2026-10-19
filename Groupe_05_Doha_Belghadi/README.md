@@ -1,7 +1,7 @@
 # Présentation Base de Données Avancées
 
 Nom : Doha Belghadi,
-      El Ferrassi Ghayta,
+      El Ferrassy Ghayta,
       Elasbi Rajae. 
       
       
